@@ -1,0 +1,6 @@
+.main {
+	position: absolute;
+	text-align: center;
+	top: calc(20vh - 5vw);
+	font-size: 10vw;
+}
