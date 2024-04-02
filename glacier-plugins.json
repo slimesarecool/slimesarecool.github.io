@@ -4,13 +4,15 @@
         "name": "lua",
         "owner": "Glacier",
         "date": "04/01/2024",
-        "experimental": false
+        "experimental": false,
+        "url": "lua.zip"
     },
     {
         "id": "glacier.luajit",
         "name": "luajit",
         "owner": "Glacier",
         "date": "04/01/2024",
-        "experimental": false
+        "experimental": false,
+        "url": "luajit.zip"
     }
 ]
