@@ -1,0 +1,16 @@
+name: JakedUp - Express Hybrid
+author: com.jakedup.hybrid
+sources:
+  - name: Torrentio
+    version: 1
+    minVersion: 0.7.2
+    website: https://torrentio.strem.fun
+    tags:
+      - Syncler2Ferrite
+    api:
+      apiUrl: https://torrentio.strem.fun
+    jsonParser:
+      searchUrl: /stream/movie/{query}.json
+      resultsKey: streams
+      magnetHashKey: infoHash
+      titleKey: title
